@@ -1,0 +1,360 @@
+/*utilities-Embed: lket vidio
+*/
+body{
+    font-family: Tahoma;
+    font-size: 12px;
+    width: 1530px;
+    background-color: #DDD;
+    margin: 0px auto;
+    justify-content: center;
+
+}
+.headerr{
+    width: 100%;
+    height: 190px;
+
+}
+.container-fluidd{
+    width: 1530px;
+    height: 45px;
+}
+
+.hea{
+    display: inline-block;
+
+}
+ .header-lh{
+    width: 1530px;
+    height: 35px;
+    background-color: #fff;
+    padding: 35px 0 40px 940px;
+    
+ }
+ .header-icon-lh{
+    width: 28px;
+    height: 28px;
+    color: #8c8c8c;
+    font-size: 18px;
+    clear:both;
+}
+.header-menu{
+    width: 1410px;
+    height: 70px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    padding-left: 120px;
+    margin: 0 0 0 133px;
+}
+
+.menu_item{
+    display: inline-block;
+    font-size: 14pt;
+    line-height: 40px;
+    color: #403f3f;
+    text-align: center;
+    padding: 0 20px 0 20px;  
+}
+.menu_item:hover{ 
+    box-shadow: 2px 4px 1px #ed2024; 
+    text-decoration: none;
+    color: black;
+}
+.gioithieu{
+    width: 1530px;
+    height: 392px;
+    background-color: #fff;
+    margin: 21px 0 0 0px;
+    justify-content: center;
+}
+.gioithieu-phai{
+    width: 548px;
+    height: 273px;
+    margin: 6px 0 0 45px;
+}
+.khoahoc{
+    width: 1530px;
+    height: 1180px;
+    background-color: #f9fafc;
+}
+.tenkh{
+    width: 100%;
+    height: 64px;
+    background-color: #f9fafc;
+}
+.tenkh h2{
+    font-family: Helvetica Neue;
+    font-size: 30pt;
+    text-transform: uppercase;
+    position: relative;
+    letter-spacing: 1px;
+    color: #272727;
+    margin-bottom: 35px;
+    position: absolute;
+    margin-left: 471px;
+}
+.tenkh h2:after {
+    content: '';
+    display: block;
+    position: absolute;
+    background: url(http://trianh.edu.vn/wp-content/themes/Dung2020/images/ico-title.png) no-repeat bottom center;
+    background-size: contain;
+    width: 100%;
+    height: 18px;
+}
+.cackh{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1238px;
+    background-color: #f9fafc;
+    margin: 25px 19px;
+}
+
+.card-body h4 p{
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    display: -webkit-box;
+    color: #000000;
+}
+
+.card-body h4{
+    color: #ed1c24;
+    font-weight: bold;
+  
+    font-size: 17pt;
+}
+.tour_order{
+    width: 113.5%;
+    height: 39pt;
+    font-size: 18px;
+    background-color: #FFF;
+    margin: 0 -20px;
+
+}
+button:focus { outline: none; }
+
+.tour_order:hover{
+    background-color: #ed1c24;
+    color: cornsilk;
+    
+    
+}
+.cat-sp{
+    font-size: 11.5pt;
+    color: #999;
+    font-family: OpenSans-Semibold;
+    margin: -5px 0px 9px 96px;
+}
+.card-text{
+    text-align: justify;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    display: -webkit-box;
+    color: #000000;
+    font-size: 16px;
+}
+
+.card-body{
+    background-color: #fff;
+}
+.thongke{
+    width: 1530px;
+    height: 535.2px;
+    background-color: #fff;
+}
+.tentk{
+    width: 1530px;
+    height: 64px;
+    background-color: #fff;
+}
+.tentk h2{
+    font-family: Helvetica Neue;
+    font-size: 30pt;
+    text-transform: uppercase;
+    position: relative;
+    letter-spacing: 1px;
+    color: #272727;
+    position: absolute;
+    margin-left: 267px;
+    margin-top: 49px;
+}
+.tentk h2:after {
+    content: '';
+    display: block;
+    position: absolute;
+    background: url(http://trianh.edu.vn/wp-content/themes/Dung2020/images/ico-title.png) no-repeat bottom center;
+    background-size: contain;
+    width: 100%;
+    height: 18px;
+}
+.cactk{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    list-style: none;
+}
+li{
+    display: block;
+}
+.count{
+    font-size: 55.73pt;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #ed1c24;
+    font-family: 'Montserrat';
+    padding: 25px 62px;
+}
+.ts{
+    font-size: 16.25pt;
+    margin-top: 0px;
+    font-family: Helvetica Neue;
+}
+.tintuc{
+    width: 1530px;
+    height: 626.44px;
+    background-color: #f9fafc;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 353px;
+    height: 429px;
+    background-color: grey;
+}
+.lienhe{
+    width: 1530px;
+    height: 600px;
+    background-color: #fff;
+}
+.t{
+    width: 559px;
+    height: 58px;
+    border: none;
+    margin: 20px -30px 16px 64px;
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+    
+}
+.t:hover{
+    height: 60px;
+    margin: 20px -30px 16px 64px;
+    border: none;
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+}
+.tt:hover{
+    height: 102px;
+    border: 1px solid #ced4da;
+}
+.hienthi{
+    display: flex;
+    height: 600px;
+    
+}
+.anh{
+    width: 350px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 0px 5px 1px #ccc;
+    margin: 87px 0px -51px 58px;
+    
+}
+.footer{
+  /* padding-top: 80px; */
+    width: 100%;
+    height: 283px;
+    background-color: #282632;
+    margin-top: 84px;
+}
+.frow{
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+hr.solid{
+    border-top: 1px solid #bebebe;
+    width: 91%;;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+}
+.hot{
+    color: grey;
+    text-decoration: none;
+}
+.hot:hover{
+    color: #ed1c24;
+    text-decoration: none;
+}
+.slider{
+    max-width: 1090.8px;
+    max-height: 457px;
+    display: flex;
+}
+.slider .card{
+    width: 342px;
+    background: #f9fafc;
+    flex: 1;
+    margin: 0 10px;
+    border: none;
+}
+.slider .card .img{
+    height: 219px;
+    width: 342px;
+}
+.slider .card .img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card .conten .card-title{
+    color: #ed1c24;
+    font-weight: bold;
+    font-size: 17pt;
+    text-align: center;
+    overflow: hidden;
+}
+.card .conten button{
+    background: #f9fafc;
+    border: none;
+        float: left;
+    color: #f00d0d;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 16pt;
+}
+a{
+    text-decoration: none;
+}
+.phongchu{
+    padding: 20px;
+    font-size: 15.75pt;
+    text-align: center;
+    border-bottom: 1px solid #c4cbcf;
+}
+.ico-sp{
+    position: absolute;
+    top: calc( 50% - 40px);
+    left: calc( 50% - 40px);
+    background: #ffffffbf;
+    padding: 20px;
+    border-radius: 60%;
+    margin: -210px -4px 9px -17px;
+}
+.clic{
+    font-size: 22pt;
+    color: black;
+}
+.clic:hover{
+    color: black;
+    text-decoration: none;
+}
